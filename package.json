@@ -1,0 +1,25 @@
+{
+  "name": "currency_converter",
+  "version": "1.0.0",
+  "description": "NPM package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agarwalmohak6/sw-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Mohak Agarwal",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/agarwalmohak6/sw-currency-converter/issues"
+  },
+  "homepage": "https://github.com/agarwalmohak6/sw-currency-converter#readme"
+}
